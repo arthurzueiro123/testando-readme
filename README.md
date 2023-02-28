@@ -5,8 +5,41 @@ Como Configurar o AILA
 
 O AILA funciona atravez de um plug-in para o google chrome, para configuralo basta carregar no seu navegador, para isso siga os seguintes passos
 
+ao abrir o chrome no canto superior direito clique no botão de extensões
 
-![](video/como-configurar.mp4)
+![](images/Passos/Passo1.png)
+
+apos isso clique no botão gerenciar de extensões
+
+![](images/Passos/Passo2.png)
+
+ao abrir a aba de gerenciar extensões clique em carregar sem compactação, ele ira abrir o explorador de arquivos nele você deve selecionar a pasta aonde se encontra o arquivo do AILA, aposisso ele devera carregar a extensão para a aba de gerennciar extensões
+
+![](images/Passos/Passo3.png)
+
+verifique se a extensão foi carregada corretamente, casso isso ocorra ela devera aparecer dessa forma
+
+![](images/Passos/Passo4.png)
+
+Verrifique também se a extensão está habilitada no seu navegador google chrome
+
+![](images/Passos/Passo5.png)
+
+apos concluir esses passos clique novamente no botão de extensões no canto superior direiro, agora devera aparecer a extensão nele
+
+![](images/Passos/Passo6.png)
+
+não se esqueça de selecionar o botão para fixar a extensão na sua barra de tarefas do seu navegdor
+
+![](images/Passos/Passo7.png)
+
+tendo feito isso a extensão devera aparecer fixada no canto superior facilitando seu acesso
+
+![](images/Passos/Passo8.png)
+
+agora basta clicar nela e clicar em iniciar para poder utilizar a extensão
+
+![](images/Passos/Passo9.png)
 
 não se esqueça de selecionar o botão para fixar a extensão na sua barra de tarefas do seu navegdor
 
@@ -81,33 +114,3 @@ Sobre o AILA
 ------------
 
 AILA foi um projeto desenvolvido pela UNIFOR(Universidade de Fortaleza), mais especificamente pelo NCDIA(nucleo de ciencia de dados e inteligencia artificial) da UNIFOR, o projeto visa trazer uma revolução na aréa juridica, AILA e só uma parte de um projeto maior que envolve ciencia de dados e inteligencia artificial, a UNIFOR vem trabalhando e desenvolvendo pesquisas na area da Justiça 4.0, uma analogia ao termo industria 4.0, ............
-
-![#](images/unifor800.jpg)
-
-Mais Sobre A UNIFOR
--------------------
-
-Criada em 1973, fundada pelo Grupo Edson Queiroz, por iniciativa do próprio Edson Queiroz, é rankeada, hoje, como a melhor universidade privada do norte e nordeste do Brasil. A UNIFOR conta, atualmente, com 40 cursos na área de Graduação. Na área de Pós-Graduação a Universidade oferece seis cursos de Mestrado (Administração, Ciências Médicas, Direito Constitucional, Informática Aplicada, Psicologia, Saúde Coletiva) e cinco cursos de Doutorado (Direito, Administração,Informática, Psicologia e Biotecnologia). Oferece ainda dezenas de cursos de Especialização.
-
-About More
-
-Mais Sobre o NCDIA
-------------------
-
-o Melhor Laboratorio do Mundo, os Outros não tem chance
-
-  
-  
-
-### Equipe que participou do projeto
-
-*   asdas
-*   asdas
-*   asdas
-*   asdas
-*   asdas
-*   asdas
-*   asdas
-*   asdas
-*   asdas
-*   asdas
