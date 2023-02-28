@@ -1,8 +1,8 @@
-      <div class="configurar" id="expose-img">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-12">
-                  <div class="titlepage text_align_center">
+      <div >
+         <div >
+            <div >
+               <div >
+                  <div >
                      <img src="./images/AILA-no-pje.png" alt="">
                   </div>
                </div>
@@ -10,11 +10,11 @@
          </div>
       </div>
 
-      <div class="configurar" id="configurar">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-12">
-                  <div class="titlepage text_align_center">
+      <div >
+         <div >
+            <div >
+               <div >
+                  <div >
                      <h2>Como Configurar o AILA</h2>
                      <p>O AILA funciona atravez de um plug-in para o google chrome, para configuralo basta carregar no seu navegador, para isso siga os seguintes passos
                      </p>
@@ -59,11 +59,11 @@
          </div>
       </div>
 
-      <div class="configurar" id="Usar">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-12">
-                  <div class="titlepage text_align_center">
+      <div >
+         <div >
+            <div >
+               <div >
+                  <div >
                      <h2>Como Usar o AILA</h2>
                      <p>O AILA funciona atravez de um plug-in para o google chrome, para configuralo basta carregar no seu navegador, para isso siga os seguintes passos
                      </p>
@@ -120,12 +120,12 @@
 
             <!-- end about -->
      <!-- coronata -->
-      <div class="info" id="info">         
-         <div class="container">
+      <div >         
+         <div >
 
-            <div class="row d_flex grid">
-               <div class="col-md-12">
-                  <div class="titlepage text_align_center">
+            <div >
+               <div >
+                  <div >
                      <h2>Sobre o AILA</h2>
                      <p>
                         AILA foi um projeto desenvolvido pela UNIFOR(Universidade de Fortaleza), mais especificamente pelo NCDIA(nucleo de ciencia de dados e inteligencia artificial) da UNIFOR,
@@ -136,27 +136,27 @@
                </div>
             </div>
 
-            <div class="row d_flex grid">
-               <div class="col-md-7">
-                  <div class="coronata_img text_align_center">
+            <div >
+               <div >
+                  <div >
                      <figure><img src="images/unifor800.jpg" alt="#"/></figure>
                   </div>
                </div>
-               <div class="col-md-5 oder1">
-                  <div class="titlepage text_align_left">
+               <div >
+                  <div >
                      <h2>Mais Sobre A UNIFOR</h2>
                      <p>Criada em 1973, fundada pelo Grupo Edson Queiroz, por iniciativa do próprio Edson Queiroz, é rankeada, hoje, como a melhor universidade privada do norte e nordeste do Brasil.
                         A UNIFOR conta, atualmente, com 40 cursos na área de Graduação. Na área de Pós-Graduação a Universidade oferece seis cursos de Mestrado (Administração, Ciências Médicas, Direito Constitucional, Informática Aplicada, Psicologia, Saúde Coletiva) e cinco cursos de 
                         Doutorado (Direito, Administração,Informática, Psicologia e Biotecnologia). Oferece ainda dezenas de cursos de Especialização.
                      </p>
-                     <a class="read_more" href="coronata.html">About More</a>
+                     <a >About More</a>
                   </div>
                </div>
             </div>
 
-            <div class="row d_flex grid">
-               <div class="col-md-12">
-                  <div class="titlepage text_align_center">
+            <div >
+               <div >
+                  <div >
                      <h2>Mais Sobre o NCDIA</h2>
                      <p>
                         o Melhor Laboratorio do Mundo, os Outros não tem chance
