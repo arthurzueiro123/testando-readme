@@ -7,29 +7,8 @@ O AILA funciona atravez de um plug-in para o google chrome, para configuralo bas
 
 https://user-images.githubusercontent.com/43655343/221936729-ffea79d8-c9aa-4dcd-81b5-5e654c52267a.mp4
 
-ao abrir o chrome no canto superior direito clique no botão de extensões
 
-![](images/Passos/Passo1.png)
 
-apos isso clique no botão gerenciar de extensões
-
-![](images/Passos/Passo2.png)
-
-ao abrir a aba de gerenciar extensões clique em carregar sem compactação, ele ira abrir o explorador de arquivos nele você deve selecionar a pasta aonde se encontra o arquivo do AILA, aposisso ele devera carregar a extensão para a aba de gerennciar extensões
-
-![](images/Passos/Passo3.png)
-
-verifique se a extensão foi carregada corretamente, casso isso ocorra ela devera aparecer dessa forma
-
-![](images/Passos/Passo4.png)
-
-Verrifique também se a extensão está habilitada no seu navegador google chrome
-
-![](images/Passos/Passo5.png)
-
-apos concluir esses passos clique novamente no botão de extensões no canto superior direiro, agora devera aparecer a extensão nele
-
-![](images/Passos/Passo6.png)
 
 não se esqueça de selecionar o botão para fixar a extensão na sua barra de tarefas do seu navegdor
 
