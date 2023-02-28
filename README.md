@@ -94,4 +94,4 @@ aqui um exemplo do texto apos substituido
 Sobre o AILA
 ------------
 
-AILA foi um projeto desenvolvido pela UNIFOR(Universidade de Fortaleza), mais especificamente pelo NCDIA(nucleo de ciencia de dados e inteligencia artificial) da UNIFOR, o projeto visa trazer uma revolução na aréa juridica, AILA e só uma parte de um projeto maior que envolve ciencia de dados e inteligencia artificial, a UNIFOR vem trabalhando e desenvolvendo pesquisas na area da Justiça 4.0, uma analogia ao termo industria 4.0, ............
+AILA foi um projeto desenvolvido pela UNIFOR(Universidade de Fortaleza), mais especificamente pelo NCDIA(nucleo de ciencia de dados e inteligencia artificial) da UNIFOR, o projeto visa trazer uma revolução na aréa juridica, AILA e só uma parte de um projeto maior que envolve ciencia de dados e inteligencia artificial, a UNIFOR vem trabalhando e desenvolvendo pesquisas na area da Justiça 4.0, uma analogia ao termo industria 4.0
