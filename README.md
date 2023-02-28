@@ -5,7 +5,8 @@ Como Configurar o AILA
 
 O AILA funciona atravez de um plug-in para o google chrome, para configuralo basta carregar no seu navegador, para isso siga os seguintes passos
 
- Your browser does not support the video tag.
+
+![](video/como-configurar.mp4)
 
 não se esqueça de selecionar o botão para fixar a extensão na sua barra de tarefas do seu navegdor
 
