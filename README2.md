@@ -8,7 +8,7 @@ A Arquitetura
 
 A função principal do Trata Texto em Lote, chamada de TrataTexto(), consiste na aplicação de forma sequencial das seguintes funções: TrataFormatacao(), TrataAbreviatura(), TrataSigla(), TrataCaractereEspecial(), TrataTermo(), TrataLegislacao() e TrataJurisprudencia(). A seguir descrevemos cada uma dessas funções.
 
-![](images/trata texto lote/arquitetura1.png)
+![](./images/trata texto lote/arquitetura1.png)
 
 ### Trata Formatação
 
