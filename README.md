@@ -5,6 +5,8 @@ Como Configurar o AILA
 
 O AILA funciona atravez de um plug-in para o google chrome, para configuralo basta carregar no seu navegador, para isso siga os seguintes passos
 
+https://user-images.githubusercontent.com/43655343/221936729-ffea79d8-c9aa-4dcd-81b5-5e654c52267a.mp4
+
 ao abrir o chrome no canto superior direito clique no botão de extensões
 
 ![](images/Passos/Passo1.png)
